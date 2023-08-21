@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&display=swap');body{
+
+    font-family: 'Libre Baskerville', serif;
+}
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/37/754/desktop-wallpaper-cool-website-background-best-background.jpg");
+    text-align: center;
+}
+img{
+    width: 700px;
+
+}
+h1{
+    background-color: black;
+    color: white;
+}
+h2{
+    color: white;
+}
+P{
+    color: white;
+}
+li{
+    color: white;
+}
